@@ -16,22 +16,31 @@
 
 ### ⚙️ Tech Stack & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Termux-%23000000.svg?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Proot%20Distro-%23000000.svg?style=for-the-badge&logo=debian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Smali-%23000000.svg?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Renderscript-%232C2C2C.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tor-%237E4798.svg?style=for-the-badge&logo=torproject&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PhantomRAT-%23000000.svg?style=for-the-badge&logo=ghost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Termux-Compatible-blue?logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Proot-Distro_Supported-yellow?logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/Arch-Linux_Supported-blue?logo=archlinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-Ready-green?logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Android-Compatible-green?logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Tor-Integrated-purple?logo=torproject&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-Shell_Script-black?logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-Supported-orange?logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Smali-Analysis_Tools-gray?logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-Supported-blue?logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-Development-purple?logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Renderscript-Enabled-lightgrey?logo=android&logoColor=white">
+  <a href="https://github.com/Ritusmin325k">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white">
+  </a>
+  <a href="https://t.me/phantomratv2">
+    <img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/nullsenpai_31">
+    <img src="https://img.shields.io/badge/Instagram-Follow_Me-pink?logo=instagram&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/PhantomRAT-Project-black?logo=ghost&logoColor=white">
+  <img src="https://img.shields.io/badge/V2-Version-blueviolet?logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Open--Source-Contributor-brightgreen?logo=opensourceinitiative&logoColor=white">
 </p>
 
 ---
