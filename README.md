@@ -86,6 +86,15 @@
   <a href="https://instagram.com/nullsenpai_31">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://ritusminportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6C63FF?logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://phantomrat-website.netlify.app">
+    <img src="https://img.shields.io/badge/👻_PhantomRAT-Official_Site-8A2BE2?logo=ghost&logoColor=white">
+  </a>
+  <a href="https://orcid.org/0009-0003-3159-4585">
+    <img src="https://img.shields.io/badge/🔗_ORCID-View_Profile-A6CE39?logo=orcid&logoColor=white">
+  </a>
 </p>
 
 ---
